@@ -1,1 +1,5 @@
-Root README
+# My Awesome Project
+
+Git is 'easy' :(
+
+
